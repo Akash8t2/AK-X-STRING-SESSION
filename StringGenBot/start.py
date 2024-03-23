@@ -18,7 +18,7 @@ Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [AK KING 👑](https://t.me/@Alllllllllllllllllllllll) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [AK KING 👑](https://t.me/Alllllllllllllllllllllll) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -26,7 +26,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [AK KING 👑](https://t.me/@Alllllllllllllllll
                 ],
                 [
                     InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/+f9ZegEtS4U4wNDdl"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/@Alllllllllllllllllllllll")
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Alllllllllllllllllllllll")
                 ]
             ]
         ),
